@@ -1,7 +1,7 @@
 # Personal Learning Tracker
 
 ## Goals
-- Master back-end development with Node.js and Express.
+- Master back-end development with Node.js,Express and other related frameworks.
 - Learn AI and Machine Learning fundamentals.
 - Complete the agriculture-based AI app.
 
