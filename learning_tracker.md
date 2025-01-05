@@ -11,6 +11,21 @@
 - [ ] Started with NumPy tutorials.
 - [ ] Built a simple API with Express.js.
 
+# January 3,2025
+- practiced NumPy
+- Review ML notes on NumPy
+- API development (Express.js) 
+
+# January 4,2025
+- built a model on colab
+- practiced Python(SoloLearn)
+- Kaggle exploration (datasets)
+
+# January 5,2025
+- learned about building routes in Express.js
+- Successfully retrieved a project from GitHub after accidentally deleting local files.
+- Practiced version control with Git(commits,push,resolving upstream issues).
+
 ### Week 2:
 To be updated...
 
