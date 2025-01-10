@@ -27,11 +27,21 @@
 - Practiced version control with Git(commits,push,resolving upstream issues).
 
 ### Week 2:
-To be updated...
+#  January 10,2025
+### Tasks Completed:
+- Attempted to set up a Trello board for AgriSense project planning.  
+- Learned about Butler automation, though I faced challenges implementing it.  
 
+### Challenges:
+- Difficulty locating and understanding the Butler automation feature in Trello.  
+
+### Next Steps:
+- Continue working on the Trello board setup tomorrow with a clear strategy.  
+- Focus on solving 2 Python coding challenges
 ## Ideas and Notes
 - Explore REST API design best practices.
 - Research AI models for agriculture prediction.
 
 ## Motivation
 "Success is attracted by who we become and the habits we exhibit."
+
